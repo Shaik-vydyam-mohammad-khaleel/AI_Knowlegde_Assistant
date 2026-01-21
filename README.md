@@ -47,10 +47,6 @@ Generates answers only from retrieved content
 
 - Gemini LLM (Google Generative AI)
 
-- Streamlit (UI – optional)
-
-- Hugging Face Spaces (Deployment)
-
 ## 📚 Knowledge Base
 
 - Qur’an (English translation, structured by Surah & Ayah)

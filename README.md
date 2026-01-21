@@ -22,17 +22,18 @@ Generates answers only from retrieved content
 
 ## 🧠 Architecture (High Level)
 
-User Question
+
+- User Question
       ↓
-Retriever (FAISS)
+- Retriever (FAISS)
       ↓
-Relevant Qur’an / Hadith Text
+- Relevant Qur’an / Hadith Text
       ↓
-Prompt + Context
+- Prompt + Context
       ↓
-Gemini LLM
+- Gemini LLM
       ↓
-Final Answer
+- Final Answer
 
 ## 🛠️ Tech Stack
 
